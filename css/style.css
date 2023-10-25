@@ -38,6 +38,7 @@ p {
 	font-size: 18px;
 	color: #808181;
 	line-height: 1.8;
+	text-transform: capitalize;
 }
 
 img {
@@ -523,6 +524,10 @@ ol {
 .resume-list h2 {
 	font-size: 72px;
 	margin-bottom: 10px;
+}
+
+.resume-list h3 {
+	text-transform: uppercase;
 }
 
 .resume-list h4 {
